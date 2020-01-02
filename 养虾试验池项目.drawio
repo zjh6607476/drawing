@@ -1,14 +1,20 @@
-<mxfile host="www.draw.io" modified="2020-01-02T07:06:25.569Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="qirNUXKvsxpRazeQf2OM" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-02T07:35:24.904Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kqfOA51b91CwYnK1xXMf" version="12.4.8" type="github">
   <diagram id="swLJGi5v2HPjv_KgUqqM" name="第 1 页">
     <mxGraphModel dx="609" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="vAtyXtitnbN9AJRjqvqJ-3" value="STM32F103RCT6&lt;br&gt;系统主控单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="vAtyXtitnbN9AJRjqvqJ-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;STM32F103RCT6&lt;br&gt;系统主控单元&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1600" y="280" width="201.82" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="cJSxulE8HZwPKAKGqiw1-1" value="STM32F103RCT6&lt;br&gt;系统主控单元" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="cJSxulE8HZwPKAKGqiw1-1" value="5G WiFi" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1600" y="160" width="200" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="p8CmxP3rmr4ddlv8Zw7t-1" value="供电方案：&lt;br style=&quot;font-size: 15px;&quot;&gt;AC220V + 明纬电源模块12V 1.8A" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="320" width="200" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="p8CmxP3rmr4ddlv8Zw7t-2" value="2+2大功率继电器&lt;br&gt;+交流接触器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="480" width="200" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
