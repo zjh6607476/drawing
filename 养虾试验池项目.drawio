@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-02T07:52:47.154Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="MmENdFlZV3v-69Qza4eh" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-02T07:53:09.065Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="dNiFRzUMFc6nAto8qP6Z" version="12.4.8" type="github">
   <diagram id="swLJGi5v2HPjv_KgUqqM" name="第 1 页">
     <mxGraphModel dx="57" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,6 +40,9 @@
         <mxCell id="p8CmxP3rmr4ddlv8Zw7t-2" value="2+2大功率继电器&lt;br&gt;+交流接触器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1320" y="480" width="160" height="80" as="geometry"/>
         </mxCell>
+        <mxCell id="p8CmxP3rmr4ddlv8Zw7t-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;fontSize=16;" edge="1" parent="1" source="p8CmxP3rmr4ddlv8Zw7t-3" target="p8CmxP3rmr4ddlv8Zw7t-30">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="p8CmxP3rmr4ddlv8Zw7t-3" value="2路ADC输入" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1520" y="480" width="120" height="80" as="geometry"/>
         </mxCell>
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="p8CmxP3rmr4ddlv8Zw7t-27" value="控制AC220V&lt;br&gt;或DC24V" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1320" y="600" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="p8CmxP3rmr4ddlv8Zw7t-30" value="检测设备&lt;br&gt;工作状态" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="600" width="120" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
