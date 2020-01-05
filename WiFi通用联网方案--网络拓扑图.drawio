@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-05T08:18:00.148Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="fI1TmI-K8047Kd2u0up1" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T08:20:25.796Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="vVl6CWaHxyobMkI2OcUL" version="12.4.8" type="github">
   <diagram id="uEFxOKB--ZDihy7HPuEc" name="第 1 页">
     <mxGraphModel dx="1008" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6,6 +6,11 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="dlpDQkjk9Ghl0g33a65h-2" target="xuZbQlAt7XbXwIj1dRuo-9">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-23" value="WiFi透传主控数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-11">
+          <mxGeometry x="0.368" y="3" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dlpDQkjk9Ghl0g33a65h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="360" height="250" as="geometry"/>
@@ -81,6 +86,9 @@
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-19" value="功能N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="680" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-32" value="物联网设备1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="475" width="80" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
