@@ -1,19 +1,19 @@
-<mxfile host="www.draw.io" modified="2020-01-05T08:21:10.669Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PW_bNGNwjqd5i_KjkjDx" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T08:26:35.167Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="ZA6kE-KCgq7LHWiEdJeR" version="12.4.8" type="github">
   <diagram id="uEFxOKB--ZDihy7HPuEc" name="第 1 页">
-    <mxGraphModel dx="691" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="xuZbQlAt7XbXwIj1dRuo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="dlpDQkjk9Ghl0g33a65h-2" target="xuZbQlAt7XbXwIj1dRuo-9">
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;curved=1;" edge="1" parent="1" source="dlpDQkjk9Ghl0g33a65h-2" target="xuZbQlAt7XbXwIj1dRuo-9">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xuZbQlAt7XbXwIj1dRuo-23" value="WiFi透传主控数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-11">
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-23" value="2.4G/5.8GWiFi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-11">
           <mxGeometry x="0.368" y="3" relative="1" as="geometry">
-            <mxPoint as="offset"/>
+            <mxPoint x="-57" y="-4" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="dlpDQkjk9Ghl0g33a65h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="500" width="360" height="250" as="geometry"/>
+          <mxGeometry x="120" y="500" width="440" height="250" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-3" value="USART" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dlpDQkjk9Ghl0g33a65h-3" target="Uirxl9wFZF3BG0lqKNT9-1">
           <mxGeometry relative="1" as="geometry"/>
@@ -33,7 +33,12 @@
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Uirxl9wFZF3BG0lqKNT9-1" target="xuZbQlAt7XbXwIj1dRuo-15">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xuZbQlAt7XbXwIj1dRuo-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Uirxl9wFZF3BG0lqKNT9-1" target="xuZbQlAt7XbXwIj1dRuo-18">
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-56" value="设备控制" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-20">
+          <mxGeometry x="0.1475" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-21" value="数据采集" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Uirxl9wFZF3BG0lqKNT9-1" target="xuZbQlAt7XbXwIj1dRuo-18">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Uirxl9wFZF3BG0lqKNT9-1" target="xuZbQlAt7XbXwIj1dRuo-19">
@@ -69,11 +74,26 @@
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-9" target="7Usn7wG0eWf6IEYnhf6R-2">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-54" value="HTTP GET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-12">
+          <mxGeometry x="0.2228" y="5" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-9" target="7Usn7wG0eWf6IEYnhf6R-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-52" value="MQTT Json" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-13">
+          <mxGeometry x="0.6337" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-9" target="7Usn7wG0eWf6IEYnhf6R-3">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-53" value="HTTPS GET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-14">
+          <mxGeometry x="0.417" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-9" value="无线路由器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="120" height="40" as="geometry"/>
@@ -146,6 +166,15 @@
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-48" value="物联网设备2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="475" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="520" width="140" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-49" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-51">
+          <mxGeometry width="46.666666666666664" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-50" value="&lt;font style=&quot;font-size: 10.6667px&quot;&gt;MQTT Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-51">
+          <mxGeometry x="46.67" width="93.33" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
