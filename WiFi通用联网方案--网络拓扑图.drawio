@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-05T08:33:07.942Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="i4t9jdKMNfwQiuU2sO80" version="12.4.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-05T08:34:22.529Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="zb6nRoURgMiVbzEq76qW" version="12.4.8" type="github">
   <diagram id="uEFxOKB--ZDihy7HPuEc" name="第 1 页">
-    <mxGraphModel dx="576" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -13,13 +13,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dlpDQkjk9Ghl0g33a65h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="500" width="440" height="250" as="geometry"/>
+          <mxGeometry x="20" y="500" width="390" height="230" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-3" value="USART" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dlpDQkjk9Ghl0g33a65h-3" target="Uirxl9wFZF3BG0lqKNT9-1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="dlpDQkjk9Ghl0g33a65h-3" value="MT7697D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="310" y="510" width="120" height="40" as="geometry"/>
+          <mxGeometry x="190" y="510" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="7Usn7wG0eWf6IEYnhf6R-1" value="IoT-MQTT Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="60" width="140" height="100" as="geometry"/>
@@ -45,10 +45,10 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Uirxl9wFZF3BG0lqKNT9-1" value="STM32主控芯片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="590" width="120" height="40" as="geometry"/>
+          <mxGeometry x="190" y="590" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="430" y="470" width="50" height="60" as="geometry"/>
+          <mxGeometry x="310" y="470" width="50" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-4" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-8">
           <mxGeometry y="20" width="40" height="40" as="geometry"/>
@@ -105,19 +105,19 @@
           <mxGeometry x="580" y="300" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-15" value="继电器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="680" width="80" height="40" as="geometry"/>
+          <mxGeometry x="100" y="680" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-18" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="680" width="80" height="40" as="geometry"/>
+          <mxGeometry x="215" y="680" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-19" value="功能N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="80" height="40" as="geometry"/>
+          <mxGeometry x="320" y="680" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-32" value="物联网设备1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="199" y="475" width="80" height="20" as="geometry"/>
+          <mxGeometry x="79" y="475" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="520" width="140" height="20" as="geometry"/>
+          <mxGeometry x="30" y="520" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-49" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-51">
           <mxGeometry width="46.666666666666664" height="20" as="geometry"/>
@@ -126,13 +126,13 @@
           <mxGeometry x="46.67" width="93.33" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="505" width="340" height="165" as="geometry"/>
+          <mxGeometry x="435" y="505" width="340" height="165" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-58" value="USART" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-59" target="xuZbQlAt7XbXwIj1dRuo-64">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-59" value="MT7697D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="790" y="515" width="120" height="40" as="geometry"/>
+          <mxGeometry x="605" y="515" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-79" value="LoRa无线通道" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-64" target="xuZbQlAt7XbXwIj1dRuo-71">
           <mxGeometry relative="1" as="geometry"/>
@@ -154,10 +154,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-64" value="LoRa网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="595" width="120" height="40" as="geometry"/>
+          <mxGeometry x="605" y="595" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-65" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="910" y="475" width="50" height="60" as="geometry"/>
+          <mxGeometry x="725" y="475" width="50" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-66" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-65">
           <mxGeometry y="20" width="40" height="40" as="geometry"/>
@@ -181,13 +181,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-71" value="LoRa节点1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="800" width="80" height="40" as="geometry"/>
+          <mxGeometry x="505" y="760" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-73" value="物联网设备2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="679" y="480" width="80" height="20" as="geometry"/>
+          <mxGeometry x="494" y="480" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="525" width="140" height="20" as="geometry"/>
+          <mxGeometry x="445" y="525" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-75" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-74">
           <mxGeometry width="46.666666666666664" height="20" as="geometry"/>
@@ -196,44 +196,34 @@
           <mxGeometry x="46.67" width="93.33" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-77" value="LoRa节点2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="800" width="80" height="40" as="geometry"/>
+          <mxGeometry x="600" y="760" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-78" value="LoRa节点N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="800" width="80" height="40" as="geometry"/>
+          <mxGeometry x="690" y="760" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-108" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="505" width="340" height="165" as="geometry"/>
+          <mxGeometry x="860" y="505" width="340" height="165" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-109" value="USART" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-110" target="xuZbQlAt7XbXwIj1dRuo-116">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-110" value="MT7697D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="515" width="120" height="40" as="geometry"/>
+          <mxGeometry x="1030" y="515" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xuZbQlAt7XbXwIj1dRuo-111" value="Bluetooth" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-116" target="xuZbQlAt7XbXwIj1dRuo-122">
+        <mxCell id="xuZbQlAt7XbXwIj1dRuo-111" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-116" target="xuZbQlAt7XbXwIj1dRuo-122">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-112" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-116" target="xuZbQlAt7XbXwIj1dRuo-127">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xuZbQlAt7XbXwIj1dRuo-113" value="Bluetooth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-112">
-          <mxGeometry x="0.3623" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-114" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="1" source="xuZbQlAt7XbXwIj1dRuo-116" target="xuZbQlAt7XbXwIj1dRuo-128">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="xuZbQlAt7XbXwIj1dRuo-115" value="Bluetooth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" connectable="0" parent="xuZbQlAt7XbXwIj1dRuo-114">
-          <mxGeometry x="0.5033" y="-21" relative="1" as="geometry">
-            <mxPoint as="offset"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-116" value="蓝牙模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="595" width="120" height="40" as="geometry"/>
+          <mxGeometry x="1030" y="595" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-117" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1370" y="475" width="50" height="60" as="geometry"/>
+          <mxGeometry x="1150" y="475" width="50" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-118" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-117">
           <mxGeometry y="20" width="40" height="40" as="geometry"/>
@@ -257,13 +247,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-122" value="BLE节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="800" width="80" height="40" as="geometry"/>
+          <mxGeometry x="890" y="800" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-123" value="物联网设备3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1139" y="480" width="80" height="20" as="geometry"/>
+          <mxGeometry x="919" y="480" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-124" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1090" y="525" width="140" height="20" as="geometry"/>
+          <mxGeometry x="870" y="525" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-125" value="Protocol" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="xuZbQlAt7XbXwIj1dRuo-124">
           <mxGeometry width="46.666666666666664" height="20" as="geometry"/>
@@ -272,10 +262,10 @@
           <mxGeometry x="46.67" width="93.33" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-127" value="BLE节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="800" width="80" height="40" as="geometry"/>
+          <mxGeometry x="1040" y="800" width="80" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="xuZbQlAt7XbXwIj1dRuo-128" value="BLE节点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="800" width="80" height="40" as="geometry"/>
+          <mxGeometry x="1190" y="800" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
