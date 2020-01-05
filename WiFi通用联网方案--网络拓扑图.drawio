@@ -1,1 +1,25 @@
-<mxfile host="www.draw.io" modified="2020-01-05T07:50:12.591Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="AtdQgVSTINumZdND9sU3" version="12.4.8" type="github"><diagram id="uEFxOKB--ZDihy7HPuEc" name="第 1 页">rZTBboMwDIafhuOkkFBarmu77tLD1Ek7R8QjWQNBIR10T79QTCljlVptJ+Lffxzni0XAlnmzsbyUWyNAB5SIJmCrgNKQksR/WuXYKTGddUJmlUDTIOzUF6BIUD0oAdXI6IzRTpVjMTVFAakbadxaU49t70aPTy15BhNhl3I9Vd+UcBLVME6GxDOoTOLRCzrvEjnvzXiTSnJh6guJrQO2tMa4bpU3S9AtvJ5Lt+/pSvbcmIXC3bJB6HL1sv/YJxupScYYj2fygXZVPrk+4IWxWXfsCVhzKAS0RUjAHmupHOxKnrbZ2r+516TLtY9CvxS8kidvG2BtsA6aq02HZxR+hsDk4OzRW3BDtEB6OD4RwbgeHoP2HnnxDmGMIscByM61B0Z+gZjuQMYmyLav8ziZr/5G7h9gxeQHrGgKK6S/wIruZ+XDYXRPuYsfAFt/Aw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-05T07:55:02.379Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="6Eseuzqqx6WxO3vBPpgi" version="12.4.8" type="github">
+  <diagram id="uEFxOKB--ZDihy7HPuEc" name="第 1 页">
+    <mxGraphModel dx="1209" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="dlpDQkjk9Ghl0g33a65h-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="280" height="160" as="geometry"/>
+        </mxCell>
+        <mxCell id="dlpDQkjk9Ghl0g33a65h-3" value="MT7697D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Usn7wG0eWf6IEYnhf6R-1" value="IoT-MQTT Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="140" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Usn7wG0eWf6IEYnhf6R-2" value="TOP Server&lt;br&gt;Device Register" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="150" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Usn7wG0eWf6IEYnhf6R-3" value="Fota OSS Server" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="140" height="100" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
