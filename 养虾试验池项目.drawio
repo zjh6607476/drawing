@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-04T09:53:50.446Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="ta1ch21DTpyCl_wSA1Q_" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T09:54:46.317Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="6gDaPk9tvvUUqWA8ePTw" version="12.6.2" type="github">
   <diagram id="swLJGi5v2HPjv_KgUqqM" name="第 1 页">
-    <mxGraphModel dx="2177" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -255,6 +255,12 @@
         </mxCell>
         <mxCell id="eTWWR-nK44aoawNuY6vx-46" value="DI1~DI24" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="770" y="270" width="328.64" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-47" value="加热棒&lt;br&gt;1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#6a00ff;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="410" y="397.83" width="30.76" height="82.17" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-48" value="加热棒&lt;br&gt;2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#6a00ff;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="450" y="397.83" width="30.76" height="82.17" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
