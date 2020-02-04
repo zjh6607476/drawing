@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-04T03:33:48.361Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="7RLpDzcieGdRRjJCW1mT" version="12.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-04T03:47:07.754Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="JA4iTsE8VOzEwffDT9Kp" version="12.6.2" type="github">
   <diagram id="swLJGi5v2HPjv_KgUqqM" name="第 1 页">
-    <mxGraphModel dx="1745" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -94,29 +94,78 @@
         <mxCell id="p8CmxP3rmr4ddlv8Zw7t-33" value="控制输出" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1840" y="600" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="jsuZhPEdaN8JELfn3BwL-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;每个养殖池控制板&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="80" y="80" width="960" height="240" as="geometry"/>
+        <mxCell id="jsuZhPEdaN8JELfn3BwL-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;养殖池控制板&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="70" width="960" height="240" as="geometry"/>
         </mxCell>
         <mxCell id="jsuZhPEdaN8JELfn3BwL-2" value="&lt;span style=&quot;font-size: 18px&quot;&gt;控制板类型2&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;4个养殖缸1个&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#ffcccc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1250" y="120" width="201.82" height="160" as="geometry"/>
         </mxCell>
-        <mxCell id="jsuZhPEdaN8JELfn3BwL-9" value="485接口1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="90" y="280" width="80" height="30" as="geometry"/>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsuZhPEdaN8JELfn3BwL-9" target="eTWWR-nK44aoawNuY6vx-17">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="jsuZhPEdaN8JELfn3BwL-10" value="485接口2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="180" y="280" width="80" height="30" as="geometry"/>
+        <mxCell id="jsuZhPEdaN8JELfn3BwL-9" value="485接口1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#d80073;strokeColor=none;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="160" y="270" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="jsuZhPEdaN8JELfn3BwL-11" value="485接口3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="270" y="280" width="80" height="30" as="geometry"/>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-17" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#d80073;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="380" width="80" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="jsuZhPEdaN8JELfn3BwL-12" value="RS232" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="90" y="220" width="80" height="30" as="geometry"/>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsuZhPEdaN8JELfn3BwL-10" target="eTWWR-nK44aoawNuY6vx-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="340"/>
+              <mxPoint x="150" y="340"/>
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jsuZhPEdaN8JELfn3BwL-13" value="CAN接口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="90" y="160" width="80" height="30" as="geometry"/>
+        <mxCell id="jsuZhPEdaN8JELfn3BwL-10" value="485接口2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#a20025;strokeColor=none;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTWWR-nK44aoawNuY6vx-21" target="eTWWR-nK44aoawNuY6vx-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eTWWR-nK44aoawNuY6vx-21" target="eTWWR-nK44aoawNuY6vx-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-21" value="变频器" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#a20025;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-25" value="循环水泵1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#a20025;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsuZhPEdaN8JELfn3BwL-11" target="eTWWR-nK44aoawNuY6vx-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="360"/>
+              <mxPoint x="260" y="360"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jsuZhPEdaN8JELfn3BwL-11" value="485接口3" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#6a00ff;strokeColor=none;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="340" y="270" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-23" value="备用接口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#6a00ff;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsuZhPEdaN8JELfn3BwL-12" target="eTWWR-nK44aoawNuY6vx-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jsuZhPEdaN8JELfn3BwL-12" value="RS232" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#1ba1e2;strokeColor=none;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="160" y="210" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-11" value="显示屏" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#1ba1e2;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="210" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jsuZhPEdaN8JELfn3BwL-13" target="eTWWR-nK44aoawNuY6vx-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="jsuZhPEdaN8JELfn3BwL-13" value="CAN接口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#6a00ff;strokeColor=none;fontSize=16;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="160" y="150" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-13" value="备用接口" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#6a00ff;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="150" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="jsuZhPEdaN8JELfn3BwL-14" value="DO1~DO16" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="359.24" y="280" width="160.76" height="30" as="geometry"/>
+          <mxGeometry x="429.24" y="270" width="160.76" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="jsuZhPEdaN8JELfn3BwL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="jsuZhPEdaN8JELfn3BwL-26" target="jsuZhPEdaN8JELfn3BwL-27" edge="1">
           <mxGeometry relative="1" as="geometry"/>
@@ -156,13 +205,16 @@
           <mxGeometry x="-474.24" y="-100" width="165" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="eTWWR-nK44aoawNuY6vx-6" value="DI1~DI16" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="280" width="160.76" height="30" as="geometry"/>
+          <mxGeometry x="600" y="270" width="160.76" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="eTWWR-nK44aoawNuY6vx-7" value="AO1~DO4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="700" y="280" width="160.76" height="30" as="geometry"/>
+          <mxGeometry x="770" y="270" width="160.76" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="eTWWR-nK44aoawNuY6vx-8" value="AI1~AI4" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#b0e3e6;strokeColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="870" y="280" width="160.76" height="30" as="geometry"/>
+          <mxGeometry x="940" y="270" width="160.76" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="eTWWR-nK44aoawNuY6vx-27" value="循环水泵2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=#a20025;strokeColor=none;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
